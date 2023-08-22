@@ -1,4 +1,4 @@
-﻿absl-py==1.4.0
+F﻿absl-py==1.4.0
 aiohttp==3.7.4
 aiosignal==1.2.0
 alabaster==0.7.12
@@ -46,7 +46,7 @@ clyent==1.2.1
 colorama==0.4.4
 colorcet==2.0.6
 comtypes==1.1.10
-conda==4.14.0
+conda==4.3.16
 conda-build==3.21.8
 conda-content-trust==0+unknown
 conda-pack==0.6.0
