@@ -314,7 +314,7 @@ streamlit==1.24.1
 sympy==1.10.1
 tables==3.6.1
 tabulate==0.8.9
-TBB==0.2
+TBB==2018.0.4
 tblib==1.7.0
 tenacity==8.0.1
 tensorboard==2.13.0
