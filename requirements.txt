@@ -289,7 +289,7 @@ Send2Trash==1.8.0
 service-identity==18.1.0
 setuptools==68.0.0
 shapely==2.0.1
-sip==4.19.13
+sip==5.0.0
 six==1.16.0
 sklearn==0.0.post5
 smart-open==5.1.0
