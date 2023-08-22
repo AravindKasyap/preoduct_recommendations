@@ -1,4 +1,4 @@
-pip install --user --install-option="--prefix=" -U scikit-learn
+import sklearn
 import streamlit as st
 import numpy as np
 import pandas as pd
